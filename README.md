@@ -1,4 +1,4 @@
-# vanshchauhano8-tech
+# vanshchauhan08-tech
 # 💫 About Me:
 👋 hi i'm Vanshidhar chauhan<br>🎓persuing b.tech in cse and learning fullstack in java<br>💻 i'm building java project<br>🌱Learning something new everyday 
 
